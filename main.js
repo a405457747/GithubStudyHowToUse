@@ -1,8 +1,8 @@
-function add(x,y){
-    return x+y;
+function addx(x,y){
+    return x+y+x+y;
 }
 
-let k =add(3,5);
+let k =addx(3,5);
 
 function cheng(x,y){
     return x*y;
