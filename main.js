@@ -1,6 +1,4 @@
-function addx(x,y){
-    return x+y+x+y;
-}
+
 
 let k =addx(3,5);
 
@@ -10,3 +8,4 @@ function cheng(x,y){
 let j =cheng(3,5);
 // helloworld
 // hellosiki
+let k2 = cheng(22,33);
