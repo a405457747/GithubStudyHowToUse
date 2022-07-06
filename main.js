@@ -9,3 +9,4 @@ function cheng(x,y){
 }
 let j =cheng(3,5);
 // helloworld
+// hellosiki
